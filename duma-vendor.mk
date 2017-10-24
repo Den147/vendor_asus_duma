@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/asus/duma/proprietary/bin/qcks:system/bin/qcks \
     vendor/asus/duma/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/asus/duma/proprietary/bin/qseecomd:system/bin/qseecomd \
+    vendor/asus/duma/proprietary/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/asus/duma/proprietary/bin/radish:system/bin/radish \
     vendor/asus/duma/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/asus/duma/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/asus/duma/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/asus/duma/proprietary/etc/DxHDCP.cfg:system/etc/DxHDCP.cfg \
+    vendor/asus/duma/proprietary/etc/apns-conf.xml:system/vendor/etc/apns-conf.xml \
     vendor/asus/duma/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
     vendor/asus/duma/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
     vendor/asus/duma/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
@@ -53,7 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/asus/duma/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/asus/duma/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
-    vendor/asus/duma/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/asus/duma/proprietary/lib/sensors.duma.so:system/lib/sensors.duma.so \
     vendor/asus/duma/proprietary/lib/libacdbdata.so:system/lib/libacdbdata.so \
     vendor/asus/duma/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/asus/duma/proprietary/lib/libAKM.so:system/lib/libAKM.so \
@@ -99,8 +100,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/asus/duma/proprietary/lib/libqmi.so:system/lib/libqmi.so \
     vendor/asus/duma/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
-    vendor/asus/duma/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
-    vendor/asus/duma/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
+    vendor/asus/duma/proprietary/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
+    vendor/asus/duma/proprietary/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/asus/duma/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/asus/duma/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
     vendor/asus/duma/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
