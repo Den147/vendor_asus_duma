@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/asus/duma/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/asus/duma/proprietary/bin/ks:system/bin/ks \
-    vendor/asus/duma/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/asus/duma/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/asus/duma/proprietary/bin/mm-qjpeg-enc-test:system/bin/mm-qjpeg-enc-test \
     vendor/asus/duma/proprietary/bin/mm-qomx-ienc-test:system/bin/mm-qomx-ienc-test \
@@ -52,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
     vendor/asus/duma/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/asus/duma/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
-    vendor/asus/duma/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/asus/duma/proprietary/lib/sensors.duma.so:system/lib/sensors.duma.so \
     vendor/asus/duma/proprietary/lib/libacdbdata.so:system/lib/libacdbdata.so \
     vendor/asus/duma/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
@@ -75,7 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/asus/duma/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/asus/duma/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
-    vendor/asus/duma/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/asus/duma/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/asus/duma/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/asus/duma/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
