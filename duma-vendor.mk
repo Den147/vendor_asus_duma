@@ -50,6 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     vendor/asus/duma/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
     vendor/asus/duma/proprietary/etc/gps.conf:system/etc/gps.conf \
+    vendor/asus/duma/proprietary/etc/android.hardware.location.gps.xml:system/etc/permissions/android.hardware.location.gps.xml \
     vendor/asus/duma/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/asus/duma/proprietary/lib/sensors.duma.so:system/lib/sensors.duma.so \
     vendor/asus/duma/proprietary/lib/libacdbdata.so:system/lib/libacdbdata.so \
