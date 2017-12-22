@@ -32,14 +32,14 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/asus/duma/proprietary/vendor/bin/nl_listener:system/vendor/bin/nl_listener \
     vendor/asus/duma/proprietary/vendor/bin/port-bridge:system/vendor/bin/port-bridge \
-    vendor/asus/duma/proprietary/vendor/bin/qcks:system/bin/vendor/qcks \
-    vendor/asus/duma/proprietary/vendor/bin/qmuxd:system/bin/vendor/qmuxd \
+    vendor/asus/duma/proprietary/vendor/bin/qcks:system/vendor/bin/qcks \
+    vendor/asus/duma/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/asus/duma/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/asus/duma/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/asus/duma/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
-    vendor/asus/duma/proprietary/vendor/bin/thermald:system/bin/vendor/thermald \
+    vendor/asus/duma/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
     vendor/asus/duma/proprietary/vendor/bin/usbhub_init:system/vendor/bin/usbhub_init \
-    vendor/asus/duma/proprietary/vendor/bin/usbhub:system/bin/vendor/usbhub \
+    vendor/asus/duma/proprietary/vendor/bin/usbhub:system/vendor/bin/usbhub \
     vendor/asus/duma/proprietary/vendor/etc/DxHDCP.cfg:system/vendor/etc/DxHDCP.cfg \
     vendor/asus/duma/proprietary/vendor/etc/apns-conf.xml:system/vendor/etc/apns-conf.xml \
     vendor/asus/duma/proprietary/vendor/etc/firmware/vidc_1080p.fw:system/vendor/etc/firmware/vidc_1080p.fw \
