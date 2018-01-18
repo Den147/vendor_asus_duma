@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/vendor/bin/diag_klog:system/vendor/bin/diag_klog \
     vendor/asus/duma/proprietary/vendor/bin/diag_mdlog:system/vendor/bin/diag_mdlog \
     vendor/asus/duma/proprietary/vendor/bin/ds_fmc_appd:system/vendor/bin/ds_fmc_appd \
+    vendor/asus/duma/proprietary/vendor/bin/fm_qsoc_patches:system/vendor/bin/fm_qsoc_patches \
     vendor/asus/duma/proprietary/vendor/bin/efsks:system/vendor/bin/efsks \
     vendor/asus/duma/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/asus/duma/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
