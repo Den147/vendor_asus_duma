@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/asus/duma/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/asus/duma/proprietary/vendor/bin/ks:system/vendor/bin/ks \
+    vendor/asus/duma/proprietary/vendor/bin/mm-qcamera-app:system/vendor/bin/mm-qcamera-app \
     vendor/asus/duma/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/asus/duma/proprietary/vendor/bin/mm-qjpeg-enc-test:system/vendor/bin/mm-qjpeg-enc-test \
     vendor/asus/duma/proprietary/vendor/bin/mm-qomx-ienc-test:system/vendor/bin/mm-qomx-ienc-test \
