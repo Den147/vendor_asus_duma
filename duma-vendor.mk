@@ -43,13 +43,13 @@ PRODUCT_COPY_FILES += \
     vendor/asus/duma/proprietary/vendor/bin/usbhub:system/vendor/bin/usbhub \
     vendor/asus/duma/proprietary/vendor/etc/DxHDCP.cfg:system/vendor/etc/DxHDCP.cfg \
     vendor/asus/duma/proprietary/vendor/etc/apns-conf.xml:system/vendor/etc/apns-conf.xml \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc_1080p.fw:system/vendor/etc/firmware/vidc_1080p.fw \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b00:system/vendor/etc/firmware/vidc.b00 \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b01:system/vendor/etc/firmware/vidc.b01 \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b02:system/vendor/etc/firmware/vidc.b02 \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b03:system/vendor/etc/firmware/vidc.b03 \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidcfw.elf:system/vendor/etc/firmware/vidcfw.elf \
-    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.mdt:system/vendor/etc/firmware/vidc.mdt \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc_1080p.fw:system/vendor/firmware/vidc_1080p.fw \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b00:system/vendor/firmware/vidc.b00 \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b01:system/vendor/firmware/vidc.b01 \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b02:system/vendor/firmware/vidc.b02 \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.b03:system/vendor/firmware/vidc.b03 \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidcfw.elf:system/vendor/firmware/vidcfw.elf \
+    vendor/asus/duma/proprietary/vendor/etc/firmware/vidc.mdt:system/vendor/firmware/vidc.mdt \
     vendor/asus/duma/proprietary/vendor/etc/gps.conf:system/vendor/etc/gps.conf \
     vendor/asus/duma/proprietary/vendor/etc/android.hardware.location.gps.xml:system/etc/permissions/android.hardware.location.gps.xml \
     vendor/asus/duma/proprietary/vendor/lib/hw/flp.msm8960.so:system/vendor/lib/hw/flp.msm8960.so \
